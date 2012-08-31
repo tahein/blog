@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【初心者向け】CPUの性能の見方と選び方　前編
-category: パソコンの選び方
+category: PC
 tags: [ パソコンの選び方, taNatos, CPU ]
 tagline: パソコンの選び方
 ---
@@ -9,8 +9,10 @@ tagline: パソコンの選び方
 前回の記事で各パーツの役割のイメージをある程度つかめたのではないかと勝手に妄想をしております。本項ではCPUについてもう少し掘り下げ、具体的な性能の見方や選び方を覚えていきたいと思います。なるべく初心者にも分かりやすいように説明していきますが、わからないところがあれば気軽にコメントを残してくださいませ。
 
 ![](http://cloud.github.com/downloads/moto-net/moto-net.github.com/CPU_01_a.jpg)
+
+
 ----------
-### CPUメーカーを知る ###
+> ### CPUメーカーを知る ###
 
 
 まずCPUとはなんなのかがわからない人は前の記事を読んでから出なおしてきましょう。
@@ -21,7 +23,7 @@ PCを自作するような人間の中にはAMDを選ぶ人もそれなりにい
 
 
 ----------
-### CPUの性能の見方 ###
+> ### CPUの性能の見方 ###
 
 
 CPUの性能を大きく左右するものとして「周波数」と「コア数」が主に挙げられます。TDPやキャッシュメモリなどのマニアックな知識を得たい人は自分で調べましょう、その際の検索サイトは個人的にはBingをおすすめしておきます（ステマ）。
@@ -32,20 +34,19 @@ CPUの性能を大きく左右するものとして「周波数」と「コア�
 
 更に恐ろしいことにそのコア数を擬似的に２倍増やすという恐ろしい技術も存在します。コア数やその技術に関してはIntel様が作っておられるこの動画がわかりやすい。
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cHivs_UpD2Q" frameborder="0" allowfullscreen></iframe>
-インテル® ハイパースレッディング・テクノロジー - YouTube [http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded](http://www.youtube.com/watch?v=cHivsUpD2Q&feature=playerembedded)
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/cHivs_UpD2Q?version=3&amp;hl=ja_JP"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cHivs_UpD2Q?version=3&amp;hl=ja_JP" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+[インテル® ハイパースレッディング・テクノロジー - YouTube](http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded "http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded") [http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded](http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded "http://www.youtube.com/watch?v=cHivs_UpD2Q&feature=player_embedded")
 
 ----------
-### 用途をはっきりさせ必要な性能を見極める ###
+> ### 用途をはっきりさせ必要な性能を見極める ###
 
 
 インターネット部向けの記事ということで３種類の用途の例を用意しました。
 
-> １．プログラミング用PC
->
-> ２．CGイラスト用PC
->
-> ３．動画編集用PC
+ - １．プログラミング用PC
+ - ２．CGイラスト用PC
+ - ３．動画編集用PC
 
 下に行くほど高性能なパーツが必要になると考えて頂いて結構、加えて必要資金も増えていきます。まあ今は昔と比べ大分PC字体の値段が下がってきているので運がいいと思いましょう。
 
@@ -59,7 +60,7 @@ CGイラストPCのCPUはそれなりのものが必要となります。とい�
 
 
 ----------
-### 【初心者向け】CPUの性能の見方と選び方　前編（まとめ） ###
+> ### 【初心者向け】CPUの性能の見方と選び方　前編（まとめ） ###
 
 
 「知らない話が永遠と続くと疲れるんだよね」という意見を頂戴したので今回はここまでとしておきましょう。次回は実際にCPUを選ぶ方法をだらだらと書き綴っていきます。
@@ -67,4 +68,4 @@ CGイラストPCのCPUはそれなりのものが必要となります。とい�
 先に断っておきますが、ここで書く選び方はあくまで目安であり、実際に購入する際にはよく検討して自分にあったものを選びましょう。安くなったとはいえPCは高額な商品、その代金を払うのは私ではなくあなたなので後悔の無いよう。
 
 
- -taNatos
+ -taNatos（[執筆者の詳細](http://coderwall.com/tahein) - http://coderwall.com/tahein ）
