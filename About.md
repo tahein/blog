@@ -9,11 +9,11 @@ InternetExplorer、Firefox、GoogleChrome、Operaの各最新版での動作確�
 ジャンルは主に『PC』『イラスト』『動画』の３本柱。
 
 ##### メニューのご説明 <hr size="1" />
- - 画面上部
+ - 画面上部  
 ![contents_a](http://cloud.github.com/downloads/tahein/blog/About_a.PNG)
 <br>
 
- - 画面右側
+ - 画面右側  
 ![contents_b](http://cloud.github.com/downloads/tahein/blog/About_b.PNG)
 <br>
 
